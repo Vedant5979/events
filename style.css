@@ -131,6 +131,17 @@ margin-right: 50px;
     margin-bottom:40px;
 }
 
+.post_nitrutsav{
+    border-left: 30px solid lightgrey;
+    border-bottom: 30px solid lightgrey;
+    border-top: 30px solid lightgrey;
+    border-right: 30px solid lightgrey;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
 .postpic{
 	margin-top:12px;
 	margin-bottom:12px;
@@ -145,5 +156,5 @@ margin-right: 50px;
 .posttext{
 	font-size:15px;
 	margin-top:15px;
-
+    text-align: justify;
 }
